@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tales L. Oliveira</h1>
-<h3 align="center">A junior dev from Brazil</h3>
+<h3 align="center">A junior dev from Brazil 🤓☝️</h3>
 
 - 🔭 I’m currently working on **autonomous drone with image recognition**
 
