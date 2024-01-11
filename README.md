@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tales L. Oliveira</h1>
 <h3 align="center">A junior dev from Brazil 🤓☝️</h3>
 
-- 🔭 I’m currently working on **autonomous drone with image recognition**
-
 - 👨‍💻 I’m currently study on **IFB - Computer Science**
 
-- ❤️ I love **Julia.jl**
+- ❤️ I love **Julia.jl**!
+
+- 🔭 Worked on a **autonomous drone with image recognition** project!
 
 - 📫 My e-mails: **tales.llima@gmail.com** || **tales.oliveira@estudante.ifb.edu.br**
 
