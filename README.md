@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently study on **IFB - Computer Science**
 
-- 🌱 I’m currently learning **Julia Language**
+- ❤️ I love **Julia.jl**
 
 - 📫 My e-mails: **tales.llima@gmail.com** || **tales.oliveira@estudante.ifb.edu.br**
 
