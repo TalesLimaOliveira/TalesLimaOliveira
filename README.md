@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="PremierePro" width="40" height="40"/>
 </p>
 
-
+<br><br>
 </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taleslimaoliveira&show_icons=true&locale=en&layout=compact" alt="taleslimaoliveira" /></p>
 
