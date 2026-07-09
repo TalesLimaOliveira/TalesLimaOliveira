@@ -26,17 +26,20 @@
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<!-- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+<!-- 
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="PremierePro" width="40" height="40"/> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="PremierePro" width="40" height="40"/> 
 </p>
 <br>
 </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taleslimaoliveira&show_icons=true&locale=en&layout=compact" alt="taleslimaoliveira" /></p>
 
+-->
 
 
 
