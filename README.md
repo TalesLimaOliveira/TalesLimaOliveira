@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Tales L. Oliveira</h1>
-<h3 align="center">A junior dev from Brazil 🤓☝️</h3>
+<h3 align="center">SAP Consultant & Developer from Brazil 🤓☝️</h3>
 
-- 👨‍💻 I’m currently study on **IFB - Computer Science**
-
-- ❤️ I love **Julia.jl**!
-
-- 🔭 Worked on a **autonomous drone with image recognition** project!
-
-- 📫 My e-mails: **tales.llima@gmail.com** || **tales.oliveira@estudante.ifb.edu.br**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://g.dev/talesoliveira" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/talesoliveira" height="30" width="40"></a>
-<a href="https://www.linkedin.com/in/TalesLimaOliveira/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tales-lima-de-oliveira-bba5b8286/" height="30" width="40"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/taleslimaoliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<h3 align="left">My Skills:</h3>
-<p align="left">
+## 💼 Professional Background
+- 🚀 **SAP Consultant:** Actively working with SAP ecosystem solutions.
+- 👨‍💻 **Education:** Bachelor's Degree in Computer Science at IFB.
+
+## 🛠️ Tech Stack & Tools
+- **SAP Ecosystem:** ABAP, Fiori, SAP ECC, SAP HANA
+- **Data & Science:** Julia, Python, SQL
+- **DevOps & Tools:** C/C++, OpenCV, Git
+
+## 🔬 Research & Passion Projects
+- ❤️ I absolutely love **Julia.jl**!
+- 🔭 Developed an **autonomous drone with image recognition** during my academic path.
+
+## 📫 Contact Me
+- 📧 **Personal:** tales.oliveira.contato@gmail.com
+- 🎓 **Academic:** tales.oliveira@estudante.ifb.edu.br
+
+<br>
 
 <img src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg" alt="SAP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/JuliaLang/julia/master/doc/src/assets/julia.ico" alt="julialang" width="40" height="40"/>
@@ -26,6 +32,7 @@
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
 <!-- 
 
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
